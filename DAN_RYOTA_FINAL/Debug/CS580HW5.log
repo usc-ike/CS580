@@ -1,0 +1,18 @@
+﻿  rend.cpp
+rend.cpp(120): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: see declaration of 'freopen'
+rend.cpp(302): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+rend.cpp(323): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+rend.cpp(491): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+rend.cpp(503): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+rend.cpp(512): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+rend.cpp(656): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+rend.cpp(715): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+rend.cpp(730): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+rend.cpp(770): warning C4244: '=': conversion from 'float' to 'GzDepth', possible loss of data
+rend.cpp(913): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+rend.cpp(913): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+rend.cpp(913): warning C4838: conversion from 'INT' to 'float' requires a narrowing conversion
+rend.cpp(913): warning C4305: 'initializing': truncation from 'INT' to 'float'
+  CS580HW5.vcxproj -> C:\Users\Ike\Dropbox\Assignments\DAN_RYOTA_FINAL\.\Debug\CS580HW5.exe
+  CS580HW5.vcxproj -> .\Debug\CS580HW5.pdb (Full PDB)
